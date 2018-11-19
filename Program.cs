@@ -1,4 +1,4 @@
-//A simple text based adventure game.
+//A simple text based adventure game, tested on both Ubuntu Linux 18.04 and Windows 10.
 using System;
 using System.Collections.Generic;
 using System.Linq;
